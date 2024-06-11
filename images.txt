@@ -1,2 +1,2 @@
---platform=linux/amd64 redis:7.0.15-alpine3.20
---platform=linux/arm/v7 redis:7.0.15-alpine3.20
+gitea/gitea:1.22.0-rootless
+gitea/act_runner:0.2.10
